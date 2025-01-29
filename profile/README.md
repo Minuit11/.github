@@ -6,7 +6,7 @@ For the moment, we develops websites or applications with :
 * PHP & the [Symfony framework](https://github.com/symfony/symfony)
 * Javascript with [Vue](https://github.com/vuejs/core)
 
-We like also :
+We also like :
 * Elasticsearch
 * AMQP (Rabbit & cie)
 * Of course: HTML & CSS
@@ -17,4 +17,9 @@ We practice :
 * CI/CD (Github actions, Gitlab-CI)
 
 
-Our website: [minuit11.fr](https://minuit11.fr) (soon... ?)
+Our links :
+
+* Website: [minuit11.fr](https://minuit11.fr?source=github) 
+* Linkedin page: [Minuit 11](https://linkedin.com/company/minuit11)
+* Calendar : [Talk development!](https://calendar.app.google/jn1efNJs3KiAR79G9)
+* Pappers page: [pappers.fr](https://www.pappers.fr/entreprise/minuit-11-938822996)
