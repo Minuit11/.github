@@ -2,6 +2,8 @@
 
 Minuit 11 is officially a company offering "IT systems and sofwares consulting".
 
+## What we do
+
 For the moment, we develops websites or applications with :
 * PHP & the [Symfony framework](https://github.com/symfony/symfony)
 * Javascript with [Vue](https://github.com/vuejs/core)
@@ -9,6 +11,7 @@ For the moment, we develops websites or applications with :
 We also like :
 * Elasticsearch
 * AMQP (Rabbit & cie)
+* Gravitee
 * Of course: HTML & CSS
 
 We practice : 
@@ -16,6 +19,15 @@ We practice :
 * Unit, functional and end-to-end tests
 * CI/CD (Github actions, Gitlab-CI)
 
+## What we did
+
+* [Planète Croisière](https://planete-croisiere.com) : global information system development (CRM, Catalog, APIs etc...), maintenance and hosting
+* [AppelsProjetsRecherche.fr](https://appelsprojetsrecherche.fr) : the portal for the researcher, with great team of [Inetum](https://inetum.com)
+* LISA CMS Headless for the Hauts-de-France region (privacy project)
+* April Marine : spécifications of the future mobile app and the future global API backend (privacy project)
+* Our first public API : [Lottery-API](https://gravitee.minuit11.fr/catalog/api/e92c6818-661d-42fe-ac68-18661d82fec0)
+
+## And more informations
 
 Our links :
 
