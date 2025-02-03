@@ -22,7 +22,7 @@ We practice :
 ## What we did
 
 * [Planète Croisière](https://planete-croisiere.com) : global information system development (CRM, Catalog, APIs etc...), maintenance and hosting
-* [AppelsProjetsRecherche.fr](https://appelsprojetsrecherche.fr) : the portal for the researcher, with great team of [Inetum](https://inetum.com)
+* [AppelsProjetsRecherche.fr](https://appelsprojetsrecherche.fr) : the portal for the researcher, with a great team of [Inetum](https://inetum.com)
 * LISA CMS Headless for the Hauts-de-France region (privacy project)
 * April Marine : spécifications of the future mobile app and the future global API backend (privacy project)
 * Our first public API : [Lottery-API](https://gravitee.minuit11.fr/catalog/api/e92c6818-661d-42fe-ac68-18661d82fec0)
